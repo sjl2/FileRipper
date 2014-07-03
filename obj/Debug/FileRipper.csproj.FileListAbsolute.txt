@@ -1,0 +1,14 @@
+c:\users\fitzadmin\documents\visual studio 2013\Projects\ConsoleApplication1\FileRipper\bin\Debug\FileRipper.exe.config
+c:\users\fitzadmin\documents\visual studio 2013\Projects\ConsoleApplication1\FileRipper\bin\Debug\FileRipper.exe
+c:\users\fitzadmin\documents\visual studio 2013\Projects\ConsoleApplication1\FileRipper\bin\Debug\FileRipper.pdb
+c:\users\fitzadmin\documents\visual studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.csprojResolveAssemblyReference.cache
+c:\users\fitzadmin\documents\visual studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.exe
+c:\users\fitzadmin\documents\visual studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.pdb
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\bin\Debug\FileRipper.exe.manifest
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\bin\Debug\FileRipper.application
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\bin\Debug\DapperORM.dll
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.TrustInfo.xml
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.exe.manifest
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.application
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.Properties.Resources.resources
+C:\Users\fitzadmin\Documents\Visual Studio 2013\Projects\ConsoleApplication1\FileRipper\obj\Debug\FileRipper.csproj.GenerateResource.Cache
